@@ -28,6 +28,40 @@ CareSchedule/
 └── .gitignore  # Files excluded from Git
 ```
 
+## 📱 Application Screenshots
+
+### Splash Screen
+![Splash Screen](01-splash-screen.png)
+
+### Home Dashboard
+![Home Dashboard](02-home-dashboard.png)
+
+### More Features
+![More Features](03-more-features.png)
+
+### Medicine Management
+![Medicine Management](04-medicine-management.png)
+
+### Appointments
+![Appointments](05-appointments.png)
+
+### My Health Profile
+![Health Profile](06a-my-health-profile.png)
+
+### Symptom Tracker
+![Symptom Tracker](07-symptom-tracker.png)
+
+### Care Reminders
+![Care Reminders](09-care-reminders.png)
+
+### Medicine Checker
+![Medicine Checker Input](10-medicine-checker-input.png)
+
+![Medicine Checker Results](11-medicine-checker-results.png)
+
+### Emergency SOS
+![Emergency SOS](12-emergency-sos-redacted.png)
+
 
 
 
